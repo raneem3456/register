@@ -1,0 +1,64 @@
+body{
+    background-image: linear-gradient(to bottom,rgb(2, 0, 102),rgb(18, 18, 163));
+    background-repeat: no-repeat;
+    background-size: cover;
+   height: 100vh;
+}
+.page{
+    padding: 80px 160px;
+    margin: 100px 100px;
+    width: 650px;
+    height: 300px;
+color: azure;
+background-color: blueviolet;
+
+
+}
+.page p{
+    font-size: xx-large;
+    position: relative;
+    top:70px;
+    right: 90px;
+}
+.page button{
+position: relative;
+top: 60px;
+right: 45px;
+width: 130px;
+height: 40px;
+background-color: transparent;
+border-color: azure;
+color: azure;
+font-size: large;
+
+}
+.card{
+    width: 400px;
+    height:560px ;
+    background-color: beige;
+    position: relative;
+    bottom: 600px;
+    left: 600px;
+    margin:20px 40px ;
+    text-align:center;
+    justify-content: center;
+}
+input{
+margin: 20px 50px ;
+width: 80%;
+height: 30px;
+position: relative;
+top: 70px;
+right: 20px;
+
+}
+.card button{
+position: relative;
+top: 100px;
+width: 170px;
+padding: 10px;
+border-radius: 5px;
+border-color: rgba(241, 0, 133, 0.74);
+background-color:rgb(231, 11, 84) ;
+color: azure;
+}
